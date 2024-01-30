@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 paris
+=======
+samuel
+>>>>>>> ma-nouvelle-branche
